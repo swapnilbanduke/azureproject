@@ -1,0 +1,9 @@
+{
+	"name": "myfirstprojectswapnil",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "231a4e21-887d-4eb6-90c2-c62181608d47",
+		"tenantId": "5df7bfe8-c66e-4465-9a6b-7636fd5c6dd8"
+	}
+}
